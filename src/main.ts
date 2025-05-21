@@ -16,6 +16,6 @@ async function bootstrap() {
   });
   app.enableShutdownHooks();
   await app.listen();
-  console.log(`Restaurant service is running on ${url}`);
+  console.log(`Email service is running on ${url}`);
 }
 bootstrap();
