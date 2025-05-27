@@ -31,7 +31,7 @@ spec:
           - name: SMTP_HOST
             value: smtp.gmail.com
           - name: SMTP_PASS
-            value: cezq nlzx kmba rbij
+            value: 
           - name: SMTP_PORT
             value: "465"
           - name: SMTP_USER
